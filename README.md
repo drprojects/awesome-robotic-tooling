@@ -619,6 +619,7 @@ to successfully design systems architecture.
 * [urban_road_filter](https://github.com/jkk-research/urban_road_filter) - Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles.
 * [Removert](https://github.com/irapkaist/removert) - Remove then revert. Static map construction in the wild and dynamic points removing tool by constructing a static map.
 * [KISS-ICP](https://github.com/PRBonn/kiss-icp) - A LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
+* [Superpoint Transformer](https://github.com/drprojects/superpoint_transformer) - An efficient model for highly scalable semantic and panoptic segmentation.
 
 ## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM.
